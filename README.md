@@ -8,6 +8,13 @@ Refer, below table for code and data...
 Sr. No. | Title | Source Code | Data
 -- | -------- | --- | ---
 1 | Fundamentals of R programming | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/01_Basic%20R%20Programming) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/01_Basic%20R%20Programming/data)
-2 | Clustering algorithms| [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/02_Clustering%20Codes) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/02_Clustering%20Codes/data)
+2 | Clustering Algorithms| [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/02_Clustering%20Codes) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/02_Clustering%20Codes/data)
 3 | Association Rule | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/03_Association%20Rule) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/03_Association%20Rule/data)
+4 | Decision Tree Algorithm | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/04_Decision%20Tree) | [Data](#)
+5 | Forecasting Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/05_Forecasting) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/05_Forecasting/data)
+6 | Hypothesis Testing and Statistical Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/06_Hypothesis%20Testing) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/06_Hypothesis%20Testing/data)
+7 | K Nearest Neighbor (KNN) Algorithm | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/07_KNN) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/07_KNN/data)
+8 | Logistic Regression Algorithm | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/08_Logistic%20Regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/08_Logistic%20Regression/data)
+9 | NA | [R code](#) | [Data](#)
+
 
