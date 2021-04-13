@@ -15,6 +15,10 @@ Sr. No. | Title | Source Code | Data
 6 | Hypothesis Testing and Statistical Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/06_Hypothesis%20Testing) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/06_Hypothesis%20Testing/data)
 7 | K Nearest Neighbor (KNN) Algorithm | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/07_KNN) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/07_KNN/data)
 8 | Logistic Regression Algorithm | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/08_Logistic%20Regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/08_Logistic%20Regression/data)
-9 | NA | [R code](#) | [Data](#)
-
-
+9 | Multi Linear Regression | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/09_Multi%20Linear%20Regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/09_Multi%20Linear%20Regression/data)
+10 | Navie Bayes | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/10_Native%20Bayes) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/10_Native%20Bayes/data)
+11| Neural Networks Analysis (configured) | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/11_Neural%20Network) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/11_Neural%20Network/data)
+12 | Random Forest | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/13_Random%20Forests) | [Data](#)
+13 | Simple Linear Regression | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/14_Simple%20Linear%20Regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/14_Simple%20Linear%20Regression/data)
+ 
+ 
