@@ -1,6 +1,6 @@
 # Machine_Learning_using_R
 Here, listed the few ML algorithm using R with some text mining works.  
-Refer, below table for code and data...
+Refer, below table for code and data..
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
