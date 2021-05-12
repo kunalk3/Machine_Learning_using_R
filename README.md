@@ -21,5 +21,8 @@ Sr. No. | Title | Source Code | Data
 12 | Principle Component Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/12_PCA) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/12_PCA/data)
 13 | Random Forest | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/13_Random%20Forests) | [Data](#)
 14 | Simple Linear Regression | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/14_Simple%20Linear%20Regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/14_Simple%20Linear%20Regression/data)
- 
+15 | support Vector Machine | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/15_SVM) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/15_SVM/data)
+
+
+
  
