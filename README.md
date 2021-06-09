@@ -21,12 +21,12 @@ Sr. No. | Title | Source Code | Data
 12 | Principle Component Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/12_PCA) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/12_PCA/data)
 13 | Random Forest | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/13_Random%20Forests) | [Data](#)
 14 | Simple Linear Regression | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/14_Simple%20Linear%20Regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/14_Simple%20Linear%20Regression/data)
-15 | support Vector Machine | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/15_SVM) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/15_SVM/data)
+15 | Support Vector Machine | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/15_SVM) | [Data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/15_SVM/data)
 16 | Text Mining | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/16_Text%20Minings) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/16_Text%20Minings/data)
-17 |  | [R code](#) | [data](#)
-18 |  | [R code](#) | [data](#)
-19 |  | [R code](#) | [data](#)
-20 |  | [R code]() | [data]()
+17 | Survival Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/17_Survival_Analysis) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/17_Survival_Analysis/data)
+18 | Multinomial Regressions | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/18_Multinomial_Regression) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/18_Multinomial_Regression/data)
+19 | ... | [R code](#) | [data](#)
+20 | ... | [R code]() | [data]()
 
 
 
