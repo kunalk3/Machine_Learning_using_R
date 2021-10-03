@@ -25,7 +25,7 @@ Sr. No. | Title | Source Code | Data
 16 | Text Mining | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/16_Text%20Minings) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/16_Text%20Minings/data)
 17 | Survival Analysis | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/17_Survival_Analysis) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/17_Survival_Analysis/data)
 18 | Multinomial Regressions | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/18_Multinomial_Regression) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/18_Multinomial_Regression/data)
-19 | ... | [R code](#) | [data](#)
+19 | Network Analytics| [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/19_Network%20Analytics) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/19_Network%20Analytics/data)
 20 | ... | [R code]() | [data]()
 
 
