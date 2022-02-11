@@ -27,7 +27,7 @@ Sr. No. | Title | Source Code | Data
 18 | Multinomial Regressions | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/18_Multinomial_Regression) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/18_Multinomial_Regression/data)
 19 | Network Analytics| [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/19_Network%20Analytics) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/19_Network%20Analytics/data)
 20 | Recommedation System | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/20_Recomendation%20System) | [data](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/20_Recomendation%20System/data)
-21 | ... | [R code]() | [data]()
+21 | Basic EDA | [R code](https://github.com/kunalk3/Machine_Learning_using_R/tree/main/21_EDA_in_R) | [data](#)
 
 
 
